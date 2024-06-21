@@ -1,7 +1,7 @@
 # vector-graphics-metabolic-maps
 
 - a julia application of vector graphics to make metabolic maps.
-- linear programming and struct and vector graphics
+- linear programming and struct and vector graphics.
 
 Gaurav \
 Academic Staff Member \
