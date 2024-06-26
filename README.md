@@ -3,7 +3,7 @@
 - linear programming and struct and vector graphics.
 - one additonal function to include before the release
 ```
-suppose you have a reaction of a metabloute like this:
+suppose you have a reaction of a metabolite like this:
 http://bigg.ucsd.edu/models/iJO1366/reactions/PRASCSi
 then the csv file to this vectorgraphic should be:
 start, end
