@@ -1,6 +1,5 @@
 # vector-metabolic-maps
-- using julia and vector graphics to make escher metabolic maps. 
-- linear programming and struct and vector graphics.
+- using julia, linear programming, struct and vector graphics to make escher metabolic maps. 
 - one additonal function to include before the release
 ```
 suppose you have a reaction of a metabolite like this:
