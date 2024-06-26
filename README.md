@@ -1,9 +1,11 @@
 # vector-metabolic-maps
-
 - using julia and vector graphics to make escher metabolic maps.
 - linear programming and struct and vector graphics.
 - # one additonal function to include before the release 
 ```
+# Author Gaurav
+# Univeristat Potsdam
+# Date: 2024-6-26
 using Luxor
 function vectorgraph(reactionfile, startreaction, endreaction):
     # the format of the reaction file is the following 
