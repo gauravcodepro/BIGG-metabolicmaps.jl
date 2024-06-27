@@ -3,6 +3,7 @@
 # Universitat Potsdam
 # Date 2024-6-26
 # vector graphics implementation for making the metabolic maps
+# thanks to https://github.com/cormullion for having a proper scientific result approaching discussion. 
 using Luxor
 function vectorgraph(reactionfile, startreaction, endreaction):
     # the format of the reaction file is the following 
