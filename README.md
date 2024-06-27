@@ -4,15 +4,13 @@
 - one additonal function to include before the release.
 - #### to do : add the final changes and add the example file. 
 ```
-suppose you have a reaction of a metabolite like this:
-http://bigg.ucsd.edu/models/iJO1366/reactions/PRASCSi
+suppose you have a reaction of a metabolite like this: http://bigg.ucsd.edu/models/iJO1366/reactions/PRASCSi
 then the csv file to this vectorgraphic should be:
 start, end
 asp__L_c,h_c
 atp_c,adp_c
 asp__L,pi_c
-```
- - your startreaction and end reaction will be ``` 5aizc_c, 25aics_c```
+and your startreaction and end reaction will be ``` 5aizc_c, 25aics_c```
 ```
 
 Gaurav \
