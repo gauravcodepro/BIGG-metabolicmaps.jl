@@ -5,7 +5,9 @@
 # vector graphics implementation for making the metabolic maps
 # thanks to https://github.com/cormullion for having a proper scientific result approaching discussion. 
 using Luxor
-function vectorgraph(reactionfile, startreaction, endreaction):
+using CSV
+using DataFrames
+function vectorgraph(reactionfile, startreaction, endreaction)
     # the format of the reaction file is the following 
     # http://bigg.ucsd.edu/models/iJO1366/reactions/PRASCSi
     readfile = open(reactionfile)
