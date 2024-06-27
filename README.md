@@ -1,8 +1,8 @@
 # BIGG-metabolicmaps
 
 - using julia, linear programming, struct and vector graphics to make escher metabolic maps. 
-- one additonal function to include before the release.
-- #### to do : add the final changes and add the example file. 
+- thanks to [cormullion](https://github.com/cormullion) for having a proper scientific result approaching discussion. 
+- to do: add the final changes and add the example file. 
 ```
 suppose you have a reaction of a metabolite like this: http://bigg.ucsd.edu/models/iJO1366/reactions/PRASCSi
 then the csv file to this vectorgraphic should be:
