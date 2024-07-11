@@ -13,9 +13,4 @@ asp__L,pi_c
 and your startreaction and end reaction will be ``` 5aizc_c, 25aics_c```
 ```
 
-Gaurav \
-Academic Staff Member \
-Bioinformatics \
-Institute for Biochemistry and Biology \
-University of Potsdam \
-Potsdam,Germany
+Gaurav 
