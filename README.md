@@ -1,4 +1,4 @@
-# julia-BIGG-metabolicmaps.jl
+# BIGG-metabolicmaps.jl
 
 - using julia, linear programming, struct and vector graphics to make escher metabolic maps. 
 - thanks to [cormullion](https://github.com/cormullion) for having a proper scientific result approaching discussion. 
